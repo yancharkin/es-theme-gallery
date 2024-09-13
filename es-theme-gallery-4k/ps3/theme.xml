@@ -1,0 +1,9 @@
+<theme>
+    <formatVersion>4</formatVersion>
+    <include>./../theme.xml</include>
+    <view name="system, basic, detailed, video">
+        <text name="systemDescription" extra="true">
+            <text>The PlayStation 3 is a home video game console developed by Sony Computer Entertainment. The PlayStation 3 competed primarily against Microsoft's Xbox 360 and Nintendo's Wii as part of the seventh generation of video game consoles.</text>
+        </text>
+    </view>
+</theme>

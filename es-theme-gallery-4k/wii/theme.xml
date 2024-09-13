@@ -1,0 +1,9 @@
+<theme>
+    <formatVersion>4</formatVersion>
+    <include>./../theme.xml</include>
+    <view name="system, basic, detailed, video">
+        <text name="systemDescription" extra="true">
+            <text>The Wii is a home video game console released by Nintendo on November 19, 2006. As a seventh-generation console, the Wii competed with Microsoft's Xbox 360 and Sony's PlayStation 3. The Wii introduced the Wii Remote controller, which can be used as a handheld pointing device and which detects movement in three dimensions. The console runs games supplied on Wii optical discs.</text>
+        </text>
+    </view>
+</theme>

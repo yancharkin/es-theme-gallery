@@ -1,0 +1,9 @@
+<theme>
+    <formatVersion>4</formatVersion>
+    <include>./../theme.xml</include>
+    <view name="system, basic, detailed, video">
+        <text name="systemDescription" extra="true">
+            <text>The PlayStation 2 is a home video game console developed and marketed by Sony Computer Entertainment. A sixth-generation console, it competed with Sega's Dreamcast, Nintendo's GameCube, and Microsoft's original Xbox. The PS2 is the best-selling video game console of all time, having sold over 155 million units worldwide, as confirmed by Sony.</text>
+        </text>
+    </view>
+</theme>

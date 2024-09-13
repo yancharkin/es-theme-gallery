@@ -1,0 +1,9 @@
+<theme>
+    <formatVersion>4</formatVersion>
+    <include>./../theme.xml</include>
+    <view name="system, basic, detailed, video">
+        <text name="systemDescription" extra="true">
+            <text>The Sega Genesis, known as the Mega Drive outside North America, is a 16-bit home video game console developed and sold by Sega. In Japan, the Mega Drive fared poorly against its two main competitors, Nintendo's Super Famicom and NEC's PC Engine, but it achieved considerable success in North America, Brazil, and Europe.</text>
+        </text>
+    </view>
+</theme>

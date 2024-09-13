@@ -1,0 +1,15 @@
+<theme>
+    <formatVersion>4</formatVersion>
+    <include>./../theme.xml</include>
+    <view name="system, basic, detailed, video">
+        <image name="logo">
+            <path>./../assets/images/systems/images/${system.theme}.svg</path>
+        </image>
+        <image name="label">
+            <path>./../assets/images/systems/labels/${system.theme}.png</path>
+        </image>
+        <text name="systemDescription" extra="true">
+            <text>Open Beats of Rage is an open source continuation of the Beats of Rage engine. Compared to the predecessor it was built from, OpenBOR eliminates the various numerical limitations, provides a high definition graphic suite, adds far more gameplay options, and includes an extendable C based scripting engine that allows authors to modify, add to, or outright replace default engine functionality.</text>
+        </text>
+    </view>
+</theme>

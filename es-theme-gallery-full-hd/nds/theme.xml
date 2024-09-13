@@ -1,0 +1,9 @@
+<theme>
+    <formatVersion>4</formatVersion>
+    <include>./../theme.xml</include>
+    <view name="system, basic, detailed, video">
+        <text name="systemDescription" extra="true">
+            <text>The Nintendo DS is a dual-screen handheld game console developed and released by Nintendo. The DS, an acronym for "Developers' System" or "Dual Screen", introduced distinctive new features to handheld gaming: two LCD screens working in tandem (the bottom one being a touchscreen), a built-in microphone, and support for wireless connectivity.</text>
+        </text>
+    </view>
+</theme>

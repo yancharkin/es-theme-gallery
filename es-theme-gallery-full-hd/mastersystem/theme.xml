@@ -1,0 +1,9 @@
+<theme>
+    <formatVersion>4</formatVersion>
+    <include>./../theme.xml</include>
+    <view name="system, basic, detailed, video">
+        <text name="systemDescription" extra="true">
+            <text>The Sega Master System is a third-generation 8-bit home video game console manufactured by Sega. The original Master System models use both cartridges and a credit card-sized format known as Sega Cards. Accessories for the consoles include a light gun and 3D glasses that work with a range of specially designed games.</text>
+        </text>
+    </view>
+</theme>

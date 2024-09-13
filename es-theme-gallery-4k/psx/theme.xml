@@ -1,0 +1,9 @@
+<theme>
+    <formatVersion>4</formatVersion>
+    <include>./../theme.xml</include>
+    <view name="system, basic, detailed, video">
+        <text name="systemDescription" extra="true">
+            <text>The PlayStation is a home video game console developed and marketed by Sony Computer Entertainment. It was the first of the PlayStation lineup of video game consoles. As a fifth generation console, the PlayStation primarily competed with the Nintendo 64 and the Sega Saturn.</text>
+        </text>
+    </view>
+</theme>

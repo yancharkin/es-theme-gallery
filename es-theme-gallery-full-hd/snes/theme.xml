@@ -1,0 +1,9 @@
+<theme>
+    <formatVersion>4</formatVersion>
+    <include>./../theme.xml</include>
+    <view name="system, basic, detailed, video">
+        <text name="systemDescription" extra="true">
+            <text>The SNES is Nintendo's second programmable home console. The console introduced advanced graphics and sound capabilities compared with other systems at the time. The system was designed to accommodate the ongoing development of a variety of enhancement chips integrated in game cartridges to be competitive into the next generation.</text>
+        </text>
+    </view>
+</theme>

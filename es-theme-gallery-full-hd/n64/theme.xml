@@ -1,0 +1,9 @@
+<theme>
+    <formatVersion>4</formatVersion>
+    <include>./../theme.xml</include>
+    <view name="system, basic, detailed, video">
+        <text name="systemDescription" extra="true">
+            <text>The Nintendo 64 is a home video game console developed and marketed by Nintendo. It was the last major home console to use the cartridge as its primary storage format until the Nintendo Switch in 2017. The Nintendo 64 was discontinued in mid 2002 following the launch of its successor, the GameCube, in 2001. </text>
+        </text>
+    </view>
+</theme>

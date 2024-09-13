@@ -1,0 +1,12 @@
+<theme>
+    <formatVersion>4</formatVersion>
+    <include>./../theme.xml</include>
+    <view name="system, basic, detailed, video">
+        <image name="logo">
+            <path>./../assets/images/systems/images/${system.theme}.svg</path>
+        </image>
+        <text name="systemDescription" extra="true">
+            <text>Steam is a video game digital distribution service by Valve. It was launched as a standalone software client in September 2003 as a way for Valve to provide automatic updates for their games, and expanded to include games from third-party publishers. Steam has also expanded into an online web-based and mobile digital storefront.</text>
+        </text>
+    </view>
+</theme>

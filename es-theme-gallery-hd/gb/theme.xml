@@ -1,0 +1,9 @@
+<theme>
+    <formatVersion>4</formatVersion>
+    <include>./../theme.xml</include>
+    <view name="system, basic, detailed, video">
+        <text name="systemDescription" extra="true">
+            <text>Nintendo's second handheld game console, the Game Boy combines features from both the NES home system and Game & Watch hardware. The console features a dull green dot-matrix screen with adjustable contrast dial, five control buttons, a single speaker with adjustable volume dial, and, like its rivals, uses cartridges as physical media for games.</text>
+        </text>
+    </view>
+</theme>

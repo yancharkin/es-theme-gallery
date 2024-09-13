@@ -1,0 +1,12 @@
+<theme>
+    <formatVersion>4</formatVersion>
+    <include>./../theme.xml</include>
+    <view name="system, basic, detailed, video">
+        <image name="logo">
+            <path>./../assets/images/systems/images/${system.theme}.svg</path>
+        </image>
+        <text name="systemDescription" extra="true">
+            <text>DOSBox is an emulator program which emulates an IBM PC compatible computer running a DOS operating system. Many IBM PC compatible graphics and sound cards are also emulated. This means that original DOS programs are provided with an environment in which they can run correctly, even though the modern computers have dropped support for that old environment.</text>
+        </text>
+    </view>
+</theme>

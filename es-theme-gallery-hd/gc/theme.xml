@@ -1,0 +1,9 @@
+<theme>
+    <formatVersion>4</formatVersion>
+    <include>./../theme.xml</include>
+    <view name="system, basic, detailed, video">
+        <text name="systemDescription" extra="true">
+            <text>The GameCube is the first Nintendo console to use optical discs as its primary storage medium. The discs are in the miniDVD format and the system was not designed to play full-sized DVDs or audio CDs, unlike its competitors, and focused on gaming instead. The console supports limited online gaming for a small number of games via a GameCube broadband or modem adapter.</text> 
+        </text>
+    </view>
+</theme>

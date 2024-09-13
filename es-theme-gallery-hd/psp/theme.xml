@@ -1,0 +1,9 @@
+<theme>
+    <formatVersion>4</formatVersion>
+    <include>./../theme.xml</include>
+    <view name="system, basic, detailed, video">
+        <text name="systemDescription" extra="true">
+            <text>The PlayStation Portable (PSP) is a handheld game console developed and marketed by Sony Computer Entertainment. It is the first handheld installment in the PlayStation line of consoles. As a seventh generation console, the PSP primarily competed with the Nintendo DS.</text>
+        </text>
+    </view>
+</theme>
